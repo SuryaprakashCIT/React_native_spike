@@ -12,7 +12,7 @@
   "dependencies": {
     "@remobile/react-native-qrcode-local-image": "^1.0.4",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-camera": "^3.11.1",
     "react-native-image-picker": "^1.1.0",
     "react-native-permissions": "^2.0.4",
